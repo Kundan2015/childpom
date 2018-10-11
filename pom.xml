@@ -13,11 +13,11 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-  	<!--
+  	
 	<parent>
 		<groupId>com.example</groupId>
 		<artifactId>parent-pom</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
    	</parent>  
-	-->
+	
 </project>
